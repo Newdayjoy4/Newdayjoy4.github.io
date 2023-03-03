@@ -1,52 +1,4 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title></title>
-        <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
-    </head>
-    <body>
-        <!--[if lt IE 7]>
-            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-        
-        <script src="" async defer></script>
-    </body>
-</html>
-
-.selector-for-some-widget {<div class="tenor-gif-embed" data-postid="26072413" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/stretching-shrinking-up-and-down-ghost-smile-gif-26072413">Stretching Shrinking Sticker</a>from <a href="https://tenor.com/search/stretching-stickers">Stretching Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-    box-sizing: content-box;
-  }
-
-  <div class="container">
-   <div class="row">
-    <div class="col">
-     <p> I shrinky </p> 
-  </div>
-    <div class="row">
-     <div class="col">
-     <p>I shrinky</p>
-     </div>
-    <div class="row">
-     <div class="col"> 
-        <p>I shrinky</p>
-  </div>
-  <div class="row">
-    <div class=>"col">
-    <p>I shrinky</p>
-  </div>     
-   <div claas="row">
-    <div class= "col"
-   
-   
-   // STEP 1: Select all slides and store them in the variable <slides>.
+// STEP 1: Select all slides and store them in the variable <slides>.
 //
 // HINT: Select the the HTML elements with the class <slide>.
 const slides = document.querySelectorAll("slide");
@@ -108,4 +60,4 @@ prevSlideButton.addEventListener("click", function () {
     if (curSlide == 0) {
         curSlide = maxSlideIndex
     }
-} 
+}
